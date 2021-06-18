@@ -1,0 +1,33 @@
+<style>
+    body {
+      font-size: 14px;
+      }
+      div.shapka {
+        text-align: center;
+        }
+      IMG.pidpys {
+        display: flex;
+        width: 150px; /* задали размеры блоку-родителю */
+        height: 40px;
+        allign: center;
+        margin: 10
+        }
+      div.pidpys {
+        text-align: center;
+        }
+      IMG.nuou {
+        width: 78px; /* задали размеры блоку-родителю */
+        height: 100px;
+        top: 40px; 
+        left: 30px;
+        }
+      IMG.zit {
+        width: 100px; /* задали размеры блоку-родителю */
+        height: 100px;
+        top: 53px; 
+        right: 30px;
+        }
+      div.date {
+        font-size: 10px;
+      }
+   </style>
